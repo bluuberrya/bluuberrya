@@ -16,12 +16,11 @@
   
   ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=%20Quaso%20)
   
-  not mine but yes Quaso
+  not mine but yes Quaso 🥐
   
   ---
 
-  ### 🍪 My Stat 🍪
-  maybe u dont need to know but
+  ### 🍪 Cookie Jar 🍪
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluushet&theme=duskfox&hide_border=true)]
   
