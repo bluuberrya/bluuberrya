@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/26nfpcs5hyJ18hSRW/giphy.gif" width="300"/>
   <h3>✨ About Me ✨</h3>
   
-  :deciduous_tree: me is Cleo.
+  :deciduous_tree: me is Cleo
   
-  :cat: my cat is Ben.
+  :cat: my cat is Ben
 
   :framed_picture: I study computer science but I like art
 
