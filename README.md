@@ -1,20 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  Howdy! :pinched_fingers:
+</h1>
 
-<!--
-**bluushet/bluushet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/26nfpcs5hyJ18hSRW/giphy.gif" width="200"/>
+  <h3>✨ About Me ✨</h3>
+  
+  :deciduous_tree: me is Cleo.
+  
+  :cat: my cat is Ben.
 
-Here are some ideas to get you started:
+  :framed_picture: I study computer science but I like art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT3i1foLN4ZnuNJRoQ/giphy.gif" width="500"/>
+  ---
+
+
+  ### 🍪 My Stat 🍪
+  maybe u dont need to know but
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluushet&theme=duskfox&hide_border=true)](https://git.io/streak-stats)
+  
 </div>
