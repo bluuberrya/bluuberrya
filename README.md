@@ -15,6 +15,10 @@
 
   ---
 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=get%20that%20bread)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  ---
+
 
   ### 🍪 My Stat 🍪
   maybe u dont need to know but
