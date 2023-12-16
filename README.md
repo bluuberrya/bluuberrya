@@ -12,17 +12,17 @@
 
   :framed_picture: I study computer science but I like art
 
-
   ---
-
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=get%20that%20bread)]
-
+  
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=%20Quaso%20)
+  
+  not mine but yes Quaso
+  
   ---
-
 
   ### 🍪 My Stat 🍪
   maybe u dont need to know but
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluushet&theme=duskfox&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluushet&theme=duskfox&hide_border=true)]
   
 </div>
