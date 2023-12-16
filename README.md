@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26nfpcs5hyJ18hSRW/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26nfpcs5hyJ18hSRW/giphy.gif" width="300"/>
   <h3>✨ About Me ✨</h3>
   
   :deciduous_tree: me is Cleo.
