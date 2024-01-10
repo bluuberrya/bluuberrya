@@ -17,11 +17,11 @@
   ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=%20Quaso%20)
   
   not mine but yes Quaso 🥐
-  
+  <!--
   ---
 
   ### 🍪 Cookie Jar 🍪
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluushet&theme=duskfox&hide_border=true)](https://git.io/streak-stats)
-  
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluushet&theme=duskfox&hide_border=true)](https://git.io/streak-stats) 
+  -->
 </div>
