@@ -7,17 +7,15 @@
   <h3>✨ About Me ✨</h3>
   
   :deciduous_tree: me is Cleo
-  
-  :cat: my cat is Ben
 
   :framed_picture: I study computer science but I like art
-
+<!--
   ---
   
   ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=%20Quaso%20)
   
   not mine but yes Quaso 🥐
-  <!--
+  
   ---
 
   ### 🍪 Cookie Jar 🍪
